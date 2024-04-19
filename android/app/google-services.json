@@ -1,51 +1,26 @@
 {
   "project_info": {
-    "project_number": "940253447511",
-    "project_id": "phoneauth-47c1b",
-    "storage_bucket": "phoneauth-47c1b.appspot.com"
+    "project_number": "638872494056",
+    "project_id": "phoneauth-3e0ac",
+    "storage_bucket": "phoneauth-3e0ac.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:940253447511:android:c852b97e0a7b756626aa12",
+        "mobilesdk_app_id": "1:638872494056:android:b4484295a06a1f10908e5d",
         "android_client_info": {
           "package_name": "com.example.phoneauth"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "940253447511-o35782nmm2369vjdqc2pbga7hhm52rkd.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.phoneauth",
-            "certificate_hash": "5b3ac75098e4fd71f097efcf4b940c0b00007aff"
-          }
-        },
-        {
-          "client_id": "940253447511-embg19fhi0j2qab61ijv6hiabq10samg.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyA5JU8z9grUsNHT3gr5h82yP_tf0Zdi5I0"
+          "current_key": "AIzaSyDolKUkFwqQ6Cqa6ZSG3OyHnh9Ws6lb5-o"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "940253447511-embg19fhi0j2qab61ijv6hiabq10samg.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "940253447511-1fnpkr1km7f8lmugcqfsb8b6hnf3fdq7.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.example.phoneauth"
-              }
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }

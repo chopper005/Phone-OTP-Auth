@@ -48,10 +48,12 @@
 		<dict>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>com.googleusercontent.apps.940253447511-1fnpkr1km7f8lmugcqfsb8b6hnf3fdq7</string>
+				<string>com.googleusercontent.apps.638872494056-u7g1qu94rijtn1m9mmcu8e352pha5q53</string>
 			</array>
 		</dict>
 	</array>
+	<key>CFBundleGetInfoString</key>
+	<string></string>
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
